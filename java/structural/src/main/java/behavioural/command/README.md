@@ -2,9 +2,9 @@
 
 ### Terminology
 * **Command object**: Knows about a Receiver and invokes a method on it.  
-* **Receiver object**:  
-* Invoker: 
-* Client:
+* **Receiver object**: Handles the state of the design pattern (Light).
+* **Invoker**: Knows about the Command object and invokes the concrete interface implementation.
+* **Client**: Uses the invoker.
 
 #### Usage
 
