@@ -1,5 +1,6 @@
 **/.gradle/
 **/gradle/
 **/output/
-.idea/
+.idea/*
+output/*
 .DS_Store
