@@ -9,5 +9,5 @@
 :bulb: Since you can link the handlers in the chain in any order, all requests will get through the chain exactly as you planned.
 
 :bug: Use the CoR pattern when the set of handlers and their order are supposed to change at runtime.
- 
+                                                                                                                                     
 :bulb: If you provide setters for a reference field inside the handler classes, you’ll be able to insert, remove or reorder handlers dynamically. 
