@@ -17,7 +17,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "./node_modules/.bin/npm-run-all prettier:write build test"
+      "pre-commit": "./node_modules/.bin/npm-run-all prettier:write build"
     }
   },
   "repository": {
